@@ -1,0 +1,22 @@
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "Tutorial MongoDB",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BielCoutinho/mongodb.git"
+  },
+  "author": "Gabriel Coutinho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BielCoutinho/mongodb/issues"
+  },
+  "homepage": "https://github.com/BielCoutinho/mongodb#readme",
+  "dependencies": {
+    "mongoose": "^8.10.1"
+  }
+}
